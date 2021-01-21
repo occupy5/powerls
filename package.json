@@ -1,0 +1,15 @@
+{
+  "name": "powerls",
+  "version": "1.0.0",
+  "description": "node implement ls command, and more powerful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "filesize": "^6.1.0"
+  }
+}
