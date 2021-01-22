@@ -1,12 +1,23 @@
 {
   "name": "powerls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node implement ls command, and more powerful",
   "main": "index.js",
+  "repository": "https://github.com/occupy5/powerls",
+  "homepage": "https://github.com/occupy5/powerls",
+  "author": "Fan",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fan",
+  "keywords": [
+    "node",
+    "ls",
+    "terminal",
+    "cli"
+  ],
+  "engines": {
+    "node": ">=6.0"
+  },
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
